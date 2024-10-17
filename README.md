@@ -1,6 +1,6 @@
 ## Oh, hello there 👋
 
-<img src="https://raw.githubusercontent.com/samjbori/samjbori/master/cover.png" align="right" width="300px"></img>
+<img src="https://raw.githubusercontent.com/samjbori/samjbori/master/cover.jpg" align="right" width="300px"></img>
 
 I'm Sam, from 🔥 [Jbori Inc](https://jbori.net/) 🔥 and I basically live on **GitHub**🐐.
 
